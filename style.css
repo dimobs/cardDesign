@@ -17,7 +17,7 @@ section {
 }
 
 aside.card {
-    background-color: #fafafa;
+    background-color: #d5c3c3;
     width: 280px;
     height: 350px;
     padding: 20px;
@@ -43,7 +43,7 @@ aside.card p {
 
 aside.card .clip{
     position: absolute;
-    background-color: #ff0c9a;
+    background-color: #362b31;
     top: 0;
     left: 0;
     right: 0;
